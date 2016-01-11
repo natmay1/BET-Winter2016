@@ -2,17 +2,29 @@
 
 Assignment:
 Version Control Tool
-1.	To familiar with basic local GIT commands
-•	Get start: init
-•	add, commit
-•	log, status, diff
-•	branch, checkout, merge
+<ol>
+  <li>
+     To familiar with basic local GIT commands
+     <ul>
+        <li>Get start: init</li>
+        <li>add, commit</li>
+        <li>log, status, diff</li>
+        <li>branch, checkout, merge</li>
+      </ul>
 Resources:
-2.	To familiar with basic remote GIT commands
-•	clone, remote, push
+</li>
+<li>
+To familiar with basic remote GIT commands
+-	clone, remote, push
 Resources:
-3.	To familiar with Github – a GIT remote repository online platform
-•	Fork
+</li>
+<li>
+To familiar with Github – a GIT remote repository online platform
+-	Fork
+-	Pull Request
+</li>
+</ol>
+
 •	Pull Request
 
 Web Development
