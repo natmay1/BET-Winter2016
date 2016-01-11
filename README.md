@@ -23,8 +23,9 @@ Get familiar with Github – an online platform that hosts remote GIT repositori
 
 Additional Resources (we recommend you have a look through these):
 * [GIT Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-* [GitHub Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [GIT Cheat Sheet (interactive)](http://ndpsoftware.com/git-cheatsheet.html)
+* [GitHub Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
 
 ### Web Development
 Get familiar with the basic HTML elements/tags
