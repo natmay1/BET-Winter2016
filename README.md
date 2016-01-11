@@ -1,33 +1,31 @@
-# BET-Winter2016
+# BET Ignition Week (Winter 2016)
+  
+  ### Version Control using Git
+    Get familiar with the basic GIT commands on your local repository.
+     - [init](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
+     - [add](https://git-scm.com/docs/git-add), 
+     - [commit](https://git-scm.com/docs/git-commit)
+     - [log](https://git-scm.com/docs/git-log), 
+     - [status](https://git-scm.com/docs/git-status), 
+     - [diff](https://git-scm.com/docs/git-diff)
+     - [branch](https://git-scm.com/docs/git-branch), 
+     - [checkout](https://git-scm.com/docs/git-checkout), 
+     - [merge](https://git-scm.com/docs/git-merge)
+  
+  Get familiar with basic remote GIT commands
+   -	[clone]()
+   -	[remote]()
+   -	[push]()
+  
+  Get familiar with Github – an online platform that hosts remote GIT repositories
+   - Fork
+   - Pull Request
 
-Assignment:
-Version Control Tool
-<ol>
-  <li>
-     To familiar with basic local GIT commands
-     <ul>
-        <li>Get start: init</li>
-        <li>add, commit</li>
-        <li>log, status, diff</li>
-        <li>branch, checkout, merge</li>
-      </ul>
-Resources:
-</li>
-<li>
-To familiar with basic remote GIT commands
--	clone, remote, push
-Resources:
-</li>
-<li>
-To familiar with Github – a GIT remote repository online platform
--	Fork
--	Pull Request
-</li>
-</ol>
+Additional Resources (you see how everything comes together):
+ - [GIT Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+ - 
 
-•	Pull Request
-
-Web Development
+### Web Development
 4.	To familiar with basic HTML tags
 •	Structure level: html, head, body, style
 •	Context level: div, p, span, strong, img, h1, h2, h3.
@@ -48,3 +46,6 @@ Challenge – Build Your Own Resume Web Page
 9.	Send a pull request to the original repository
 10.	Now I can review your work!! (Due to 14th)
 Recommended text editor: bracket.io
+
+
+If you have any questions, please create a github issue and ask your questions there.
