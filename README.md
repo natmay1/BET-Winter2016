@@ -55,4 +55,4 @@ Additional Resources:
 *Recommended Text Editor:* [Brackets](http://brackets.io)
 
 
-If you have any questions, please create a github issue and ask your questions there.
+If you have any questions, please create a github issue [(here)](https://github.com/UniversityOfWaterloo/BET-Winter2016/issues) and ask your questions there.
