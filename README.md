@@ -36,9 +36,9 @@ Get familiar with the basic CSS attributes
 * Layout related attributes: _width, height, margin, border, position, float, clear_
 * Color related attributes: _color, background-color, border-color_
 
-Additional Resources:
-* [HTML Element/Tag References](http://www.w3schools.com/tags/)
-* [CSSReferences](http://www.w3schools.com/cssref/default.asp)
+Additional Resources (we recommend you have a look through these):
+* [HTML References](http://www.w3schools.com/tags/)
+* [CSS References](http://www.w3schools.com/cssref/default.asp)
 
 ### Challenge: Build Your Own Resume Web Page
 1.	Create a Github account
