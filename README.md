@@ -43,14 +43,14 @@ Additional Resources (we recommend you have a look through these):
 ### Challenge: Build Your Own Resume Web Page
 1.	Create a Github account
 2.	Fork the repository onto your Github account
-3.	Clone the forked repository to local
-4.	Create a new branch with the format: BET-:(your name) (ex. BET-MarkHsu)
-5.	Create a txt file named index.html (you need to change the extension from .txt to .html)
-6.	Code your resume web page ( of course, using HTML and CSS)
+3.	Clone the forked repository to your local
+4.	Create a new branch with the name: BET-YourNameGoesHere (For example: BET-MarkHsu)
+5.	Create a file named "index.html" (easiest way is to create a ".txt" file then change the extension to ".html")
+6.	Code your resume web page (using HTML and CSS of course)
 7.	Add and commit the change on Git
 8.	Push the branch to your remote repository
 9.	Send a pull request to the original repository
-10.	Now I can review your work!! (Due by January 14, 2016)
+10.	Now I can review your work!! (Due: January 14, 2016)
 
 
 *Recommended Text Editor:* [Brackets](http://brackets.io)
