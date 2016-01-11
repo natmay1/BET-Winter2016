@@ -52,8 +52,6 @@ Additional Resources (we recommend you have a look through these):
 9.	Send a pull request to the original repository
 10.	Now I can review your work!! (Due by January 14, 2016)
 
-
 *Recommended Text Editor:* [Brackets](http://brackets.io)
-
 
 If you have any questions, please create a github issue [(here)](https://github.com/UniversityOfWaterloo/BET-Winter2016/issues) and ask your questions there.
