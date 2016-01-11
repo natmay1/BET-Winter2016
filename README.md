@@ -1,6 +1,6 @@
 # BET Ignition Week (Winter 2016)
 
-### Version Control using Git
+### Version Control using GIT
 Get familiar with the basic GIT commands on your local repository.
 * [init](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
 * [add](https://git-scm.com/docs/git-add)
@@ -27,7 +27,7 @@ Additional Resources (we recommend you have a look through these):
 * [GIT Cheat Sheet (interactive)](http://ndpsoftware.com/git-cheatsheet.html)
 
 ### Web Development
-Get familiar with the basic HTML tags
+Get familiar with the basic HTML elements/tags
 * Structure level: _html, head, body, style_
 * Context level: _div, p, span, strong, img, h1, h2, h3_
 
@@ -35,6 +35,9 @@ Get familiar with the basic CSS attributes
 * Layout related attributes: _width, height, margin, border, position, float, clear_
 * Color related attributes: _color, background-color, border-color_
 
+Additional Resources:
+* [HTML Element/Tag References](http://www.w3schools.com/tags/)
+* [CSSReferences](http://www.w3schools.com/cssref/default.asp)
 
 ### Challenge: Build Your Own Resume Web Page
 1.	Create a Github account
