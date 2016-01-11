@@ -3,13 +3,13 @@
 ### Version Control using Git
 Get familiar with the basic GIT commands on your local repository.
 * [init](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
-* [add](https://git-scm.com/docs/git-add), 
+* [add](https://git-scm.com/docs/git-add)
 * [commit](https://git-scm.com/docs/git-commit)
-* [log](https://git-scm.com/docs/git-log), 
-* [status](https://git-scm.com/docs/git-status), 
+* [log](https://git-scm.com/docs/git-log)
+* [status](https://git-scm.com/docs/git-status)
 * [diff](https://git-scm.com/docs/git-diff)
-* [branch](https://git-scm.com/docs/git-branch), 
-* [checkout](https://git-scm.com/docs/git-checkout), 
+* [branch](https://git-scm.com/docs/git-branch)
+* [checkout](https://git-scm.com/docs/git-checkout)
 * [merge](https://git-scm.com/docs/git-merge)
 
 Get familiar with basic remote GIT commands
@@ -18,8 +18,8 @@ Get familiar with basic remote GIT commands
 * [push](https://git-scm.com/docs/git-push)
   
 Get familiar with Github – an online platform that hosts remote GIT repositories
-* Fork
-* Pull Request
+* [Fork](https://help.github.com/articles/fork-a-repo/)
+* [Pull Request](https://help.github.com/articles/using-pull-requests/)
 
 Additional Resources (we recommend you have a look through these):
 * [GIT Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
@@ -28,12 +28,12 @@ Additional Resources (we recommend you have a look through these):
 
 ### Web Development
 Get familiar with the basic HTML tags
-* Structure level: html, head, body, style
-* Context level: div, p, span, strong, img, h1, h2, h3.
+* Structure level: _html, head, body, style_
+* Context level: _div, p, span, strong, img, h1, h2, h3_
 
 Get familiar with the basic CSS attributes
-* Layout related: width, height, margin, border, position, float, clear
-* Color related: color, background-color, border-color
+* Layout related attributes: _width, height, margin, border, position, float, clear_
+* Color related attributes: _color, background-color, border-color_
 
 
 ### Challenge: Build Your Own Resume Web Page
